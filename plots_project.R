@@ -1,3 +1,4 @@
+#To be run in R, a script to visualize the data and create some initial plots
 
 #load in genetics data and use environmental data from "download_env_data.R" script
 genetics <- read.csv("genetics_out_21July.csv")
